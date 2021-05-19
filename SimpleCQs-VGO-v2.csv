@@ -1,0 +1,12 @@
+﻿Identifier;CQ;API_path
+req96;What is the username of the player?;/players/{player-id}
+req97;Who are the friends of the player?;/players/{player-id}/friends-with-player/players
+req103;What achievements does a game have?;/games/{game-id}/achievements
+req106;What are the types of achievements a game can have?;/games/{game-id}/achievements
+req107;What is the genre of the game?;/games/{game-id}/genres
+req108;What items exist in a game?;/games/{game-id}/items
+req109;Who is the creator of the game?;/games/{game-id}/agents
+req110;What is the release date of the game?;/games/{game-id}
+req114;What features does an item have?;/items/{item-id}/features
+req119;What games has the player played?;/players/{player-id}/games
+req121;What achievements of a certain type does the player own?;/players/{player-id}/achievements
